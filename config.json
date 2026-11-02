@@ -1,0 +1,6 @@
+{
+  "label": "EmuSort",
+  "icon": "icon.png",
+  "launch": "launch.sh",
+  "description": "Sort console order in Games menu"
+}
