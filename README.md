@@ -1,5 +1,8 @@
 # EmuSort for Onion OS
 
+<img width="640" height="480" alt="Screenshot_000" src="https://github.com/user-attachments/assets/275e277c-4dc2-4acb-908a-6ee36cf463d6" />
+
+
 A lightweight, native on-device console order manager for **Onion OS** (Miyoo Mini, Miyoo Mini v4, Miyoo Mini Plus, and Miyoo Mini Flip). 
 
 By default, Onion OS sorts systems in the **Games** menu alphabetically (`A-Z`). **EmuSort** lets you reorder your consoles directly on the handheld using an interactive grab-and-drop list—without adding visible numbers (`01.`, `02.`) or shifting label alignment.
